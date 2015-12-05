@@ -1,0 +1,58 @@
+10
+
+dir
+1
+https://server:8443/svn/letters/cake/tests/test_app
+https://server:8443/svn/letters
+
+
+
+2011-09-04T07:35:51.281250Z
+1
+dailos
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+c5bbd24a-fd2b-bb42-85b6-706ae025651f
+
+locale
+dir
+
+tmp
+dir
+
+vendors
+dir
+
+plugins
+dir
+
+webroot
+dir
+
+models
+dir
+
+config
+dir
+
+controllers
+dir
+
+libs
+dir
+
+views
+dir
+

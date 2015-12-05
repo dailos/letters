@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/letters/!svn/ver/1/cake/tests/test_app/views/elements
+END
+type_check.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/letters/!svn/ver/1/cake/tests/test_app/views/elements/type_check.ctp
+END
+html_call.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/letters/!svn/ver/1/cake/tests/test_app/views/elements/html_call.ctp
+END
+session_helper.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/letters/!svn/ver/1/cake/tests/test_app/views/elements/session_helper.ctp
+END
+test_element.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/letters/!svn/ver/1/cake/tests/test_app/views/elements/test_element.ctp
+END
+empty
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/letters/!svn/ver/1/cake/tests/test_app/views/elements/empty
+END

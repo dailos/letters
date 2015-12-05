@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/letters/!svn/ver/1/app/views/companies
+END
+admin_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/letters/!svn/ver/1/app/views/companies/admin_edit.ctp
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/letters/!svn/ver/1/app/views/companies/admin_index.ctp
+END
+admin_add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/letters/!svn/ver/1/app/views/companies/admin_add.ctp
+END

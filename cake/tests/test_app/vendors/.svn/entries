@@ -1,0 +1,80 @@
+10
+
+dir
+1
+https://server:8443/svn/letters/cake/tests/test_app/vendors
+https://server:8443/svn/letters
+
+
+
+2011-09-04T07:35:51.281250Z
+1
+dailos
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+c5bbd24a-fd2b-bb42-85b6-706ae025651f
+
+Test
+dir
+
+sample
+dir
+
+welcome.php
+file
+
+
+
+
+2011-09-04T07:37:10.072366Z
+f69381b4486da10f435be7409dd4f774
+2011-09-04T07:35:51.281250Z
+1
+dailos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+792
+
+somename
+dir
+
+css
+dir
+
+shells
+dir
+
+img
+dir
+

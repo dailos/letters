@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/letters/!svn/ver/1/cake/console/templates/default/classes
+END
+test.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/letters/!svn/ver/1/cake/console/templates/default/classes/test.ctp
+END
+model.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/letters/!svn/ver/1/cake/console/templates/default/classes/model.ctp
+END
+controller.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/letters/!svn/ver/1/cake/console/templates/default/classes/controller.ctp
+END
+fixture.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/letters/!svn/ver/1/cake/console/templates/default/classes/fixture.ctp
+END
